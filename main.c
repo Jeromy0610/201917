@@ -5,6 +5,7 @@ int main()
 {
     int a,b,c;
     printf("test !!\n");
+    printf("\n\n\n\n\n");
     printf("Hello world!\n");
     for(a=0; a<6; a++){
         b=a+1;
