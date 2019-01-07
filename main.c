@@ -3,11 +3,12 @@
 
 int main()
 {
-    int a,b;
+    int a,b,c;
     printf("Hello world!\n");
     for(a=0; a<6; a++){
         b=a+1;
+        c=c+b;
     }
-    printf("b:%d",b);
+    printf("c:%d",c);
     return 0;
 }
